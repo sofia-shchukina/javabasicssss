@@ -4,6 +4,6 @@ public class Main {
         System.out.println(someArray[0]);
         System.out.println(someArray[2]);
         System.out.println(someArray[0] + someArray[1]);
-        System.out.println(someArray.length);
+
     }
 }
